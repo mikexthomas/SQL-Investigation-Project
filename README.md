@@ -1,7 +1,7 @@
 # SQL-Investigation-Project
 
 ## Final Report (PDF)
-[**Download the full investigation report here**]
+[**Download the full investigation report here**](SQL_Investigation_Project_Final)
 
 ## Overview
 This project demonstrates the use of SQL to investigate and analyze user login data for potential security threats. The goal was to identify suspicious activity such as multiple failed login attempts, login from unusual locations, and irregular login patterns.
